@@ -275,23 +275,21 @@ To run this game on your local machine, follow these steps:
 
 <h2> Clone the repository: </h2>
 <strong>
-bash
-Copy code
-git clone https://github.com/your-username/adventure-game.git
-Navigate to the project directory:
+
+    git clone https://github.com/your-username/adventure-game.git
+    Navigate to the project directory:
 </strong>
 <strong>
-bash
-Copy code
-cd adventure-game
-Compile and run the project using Java:
+   
+    
+    cd adventure-game
+    Compile and run the project using Java:
 </strong>
 <strong>
-bash
-Copy code
-javac Game.java
-java Game
-Make sure you have Java installed on your system. You can download it from here. 
+
+    javac Game.java
+    java Game
+    Make sure you have Java installed on your system. You can download it from here. 
 </strong>
 
 <h2> How to Play </h2>
